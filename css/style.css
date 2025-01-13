@@ -66,6 +66,8 @@ body {
 
 .textp {
     backdrop-filter: blur(30px) ;
+    padding: 5px;
+    border-radius: 7px;
 }
 
 
